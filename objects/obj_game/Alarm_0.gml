@@ -24,4 +24,4 @@ else
 	var xx = floor(random_range(0, room_width + 1));
 }
 
-instance_create_layer(xx, yy, "Instances", obj_asteroid);
+// instance_create_layer(xx, yy, "Instances", obj_asteroid);

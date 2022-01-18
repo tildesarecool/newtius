@@ -7,11 +7,3 @@ if (y > 0 + sprite_xoffset + spd) {
 }
 
 
-/*
-
-if (y > 0 + sprite_xoffset + spd) {
-	y -= spd;
- 
-}
-
-*/
