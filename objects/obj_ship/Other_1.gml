@@ -11,6 +11,8 @@ if ( bbox_left < 0 || bbox_right > room_width ) {
 	
 }
 
+
+
 if ( bbox_top < 0 || bbox_bottom > room_height ) {
 	
 	y = clamp(y, sprite_yoffset, room_height - sprite_yoffset); 
