@@ -1,15 +1,23 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+RoomBottomEdge = room_height - sprite_yoffset - 5;
 
+if ( y < RoomBottomEdge   ) {
+	y = y + spd;
+} else {
+	y = RoomBottomEdge;
+}
 
 
 //if ( bbox_bottom > room_height ) {
-	
+/*	
 	if (y > 0 + sprite_yoffset + spd && bbox_bottom < room_height  ) {
 		y += 2;
  
 	}	
+	*/
+	
 //}
 	
 	/*
