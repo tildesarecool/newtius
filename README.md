@@ -18,6 +18,12 @@ As soon as I accomplish that I'll put a page together on itch.io because *why no
 
 ## Updates!
 
+**21st January 2022**
+
+I've fixed the bug I was having in newtius where the ship would get stuck on different edges of the window. It took me a while but 
+
+Actually I wrote a [new dev log entry about it](https://tildesare.cool/2022/01/22/dev-log-entry-4-solving-the-edge-bug-in-newtius/), should anybody be interested.
+
 **18th January 2022**
 
 No updates. Well I created a blog post (see my blog link above). But no functional changes yet. I wanted to document some things before moving on.
