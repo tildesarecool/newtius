@@ -18,6 +18,10 @@ As soon as I accomplish that I'll put a page together on itch.io because *why no
 
 ## Updates!
 
+**23rd January 2022**
+
+I used the examples in the [Arena shooter GML editon](https://www.yoyogames.com/en/tutorials/my-first-arena-shooter-gml) to add hitpoints to the enemy and have the enemy move towards the ship. I also put "bullets" on the own layer for reasons that I'm sure will become apparent.
+
 **21st January 2022**
 
 I've fixed the bug I was having in newtius where the ship would get stuck on different edges of the window. It took me a while but 
