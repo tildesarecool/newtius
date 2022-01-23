@@ -13,7 +13,6 @@ spd = 1.5;
 
 
 
-
 /* // (this was experimenntal coordinates code I was using and can be ignored
  x = room_width - sprite_xoffset -5;
 //x = room_width - sprite_xoffset - 40;
