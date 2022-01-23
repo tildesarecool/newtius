@@ -18,8 +18,14 @@ if ( instance_exists(obj_ship) ) {
 
 
 // when the hp gets to 0 destroy the enemy instance - hp defined in the create event
-if ( hp <= 0 ) { // i just can't do the single line/no braces. just feels weird.
-	
+
+if ( hp <= 0 ) { 
+// with means do this thing to this other object. in this case the score object
+	with ( obj_score ) { // i just can't do the single line/no braces. just feels weird.
+		// add 5 to the score
+		thescore = thescore + 5;
+	}
+	// when hp less then 0 destory the enemy object (boom)
 	instance_destroy();
 	
 }
