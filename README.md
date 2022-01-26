@@ -16,6 +16,8 @@ I'm at an extremely early stage of for this game right now. In fact a sprite tha
 
 As soon as I accomplish that I'll put a page together on itch.io because *why not?*
 
+The "stable" version of the game I'm going to [leave over on the itch.io page for the game](https://tildesarecool.itch.io/newtius). At least eventually.
+
 ## Updates!
 
 **25th January 2022**
