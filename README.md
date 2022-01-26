@@ -18,7 +18,7 @@ As soon as I accomplish that I'll put a page together on itch.io because *why no
 
 ## Updates!
 
-**25rd January 2022**
+**25th January 2022**
 
 I finished writing a [quite long dev log post over on my blog](https://tildesare.cool/2022/01/25/dev-log-entry-6-sounds-and-collisoins/). WordPress estimates the read time at 12 minutes (so it must be good).
 
