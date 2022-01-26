@@ -4,7 +4,7 @@
 
 
 // hitpoints
-hp = 5;
+hp = 3;
 
 // speed setting
 spd = 1.5;

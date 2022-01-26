@@ -1,6 +1,7 @@
-/// @description Insert description here
-// You can write your code in this editor
-
+// space bar pressed event
+// using "var" for a variable means it's temporary and expires
+// the below is just saying when the space is pressent create
+// a bullet at the x/y coordinates of the ship object.
 
 var newBullet = instance_create_layer(x + 0, y + 0, "BulletsLayer", obj_bullet);
 
