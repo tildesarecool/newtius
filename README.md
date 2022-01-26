@@ -27,7 +27,12 @@ I also figured out how to use "GitHub pages" pages host my GMS2-generated HTML5 
 Basically, I created a separate repo and extracted the created zip into it (the index.html file in the root, in other words). Then turned on pages and pointed it at the "main branch" which happens to have the game's index.html file. Since it's a static HTML thing anyway that doesn't require server side scripting or anything, "pages" puts it up.
 
 For my first repo I decided to preserve the very first published version of newtius for posterity. Or reference. Take your pick:
-[https://medium.com/@aboutin/host-unity-games-on-github-pages-for-free-2ed6b4d9c324](https://medium.com/@aboutin/host-unity-games-on-github-pages-for-free-2ed6b4d9c324)
+
+Playable version onpages:
+
+[https://tildesarecool.github.io/newtius_pre-alpha-1-playable-800x600/](https://tildesarecool.github.io/newtius_pre-alpha-1-playable-800x600/)
+
+[Actual repository](https://github.com/tildesarecool/newtius_pre-alpha-1-playable-800x600)
 
 Eventually I'll create a new repo that will be for the "unstable build" or "nightly" or whatever you want to call it where I'll just throw up the latest version regardless. And perhaps the itch.io copy will be some where in middle. Speaking of which I should probably re-do my whole title screen and make display a version number. Has to be some way of tracking versions. Like a version...tracker. I'm definitely the first one to think of this as a concept. 
 
