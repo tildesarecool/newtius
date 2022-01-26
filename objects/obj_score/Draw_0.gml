@@ -1,8 +1,7 @@
 // objects use draw_self(); function if there are no draw events specifically defined
+// things I learned:
 // draw events happen once a frame like step events
-
-// var is used for variables that disapear/don't exist at end of event
-
+// var is used for variables that disappear/don't exist at end of event
 
 
 // these lines use the defined font and set the color of the font
