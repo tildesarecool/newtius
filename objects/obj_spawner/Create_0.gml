@@ -1,8 +1,8 @@
 
 	
-iEnemyCount = 4;
-alarm[0] = 29;
-instance_create_layer(room_width - 10, room_height - 300, "EnemyLayer", obj_pattern_enemy);
+iEnemyCount = 5;
+alarm[0] = 24;
+//instance_create_layer(room_width - 10, room_height - 300, "EnemyLayer", obj_pattern_enemy);
 
 	
 	
