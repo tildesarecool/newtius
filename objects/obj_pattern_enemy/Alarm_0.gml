@@ -1,6 +1,6 @@
 
 
-
+/*
 
 i=3;
 if (i > 0) {
@@ -12,7 +12,7 @@ i--;
 	alarm[0] = -1;
 }
 
-
+*/
 
 
 //alarm[0] = iSpawnRate; // very last

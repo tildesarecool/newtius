@@ -1,3 +1,8 @@
+if ( x < 0 ) {
+	instance_destroy();
+}
+
+
 //this tests if the object_player exists
 // and if so moves the enemy towards that player object's x and x at speed,
 // spd (spd in the create event)

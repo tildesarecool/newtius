@@ -1,3 +1,6 @@
+speed = 3; // pixels per second means it's going 60 pixels per step. i think that's fast
+direction = 180; // should be facing right
+
 
 /* 
 
@@ -16,7 +19,7 @@ then since 0 degrees is right, set direction to 180
 should probably set a starting x and y first though
 
 */
-
+/*
 x = room_width - 100;
 y = room_height /2;
 
@@ -26,7 +29,7 @@ alarm[0] = iSpawnRate;
 
 speed = 3; // pixels per second means it's going 60 pixels per step. i think that's fast
 direction = 180; // should be facing right
-
+*/
 
 /*
 x = room_width - 10; // 10 pixels in from right edge
