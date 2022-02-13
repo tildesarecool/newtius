@@ -1,3 +1,23 @@
+// when the hp gets to 0 destroy the enemy instance - hp defined in the create event
+
+if ( hp <= 0 ) { 
+// with means do this thing to this other object. in this case the score object
+	with ( obj_score ) { // i just can't do the single line/no braces. just feels weird.
+		// add 5 to the score
+		thescore = thescore + 5;
+	}
+	
+	// this just uses the death sound when the enemy is destroyed
+	// there's also this random pitch adjustment to give it a little variety
+	audio_sound_pitch(snd_death, random_range(0.8, 1.2) );
+	audio_play_sound(snd_death,0,false);
+	// when hp less then 0 destory the enemy object (boom)
+	instance_destroy();
+	
+}
+
+
+
 if ( x < 0 ) {
 	instance_destroy();
 }
