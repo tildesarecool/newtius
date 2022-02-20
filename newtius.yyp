@@ -4,6 +4,7 @@
     {"id":{"name":"obj_ship","path":"objects/obj_ship/obj_ship.yy",},"order":0,},
     {"id":{"name":"spr_titlebg","path":"sprites/spr_titlebg/spr_titlebg.yy",},"order":5,},
     {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":7,},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":7,},
     {"id":{"name":"spr_debris","path":"sprites/spr_debris/spr_debris.yy",},"order":2,},
     {"id":{"name":"obj_score","path":"objects/obj_score/obj_score.yy",},"order":3,},
     {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},"order":0,},
