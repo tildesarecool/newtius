@@ -18,12 +18,12 @@ function screenBounce(argument0) {
 		x = prevX;		
 		// the "bounce of the edge" section
 		// try 1.5 instead damper for hilarirty to ensue
-		vX = -vX * damper ;
+		//vX = -vX * damper ;
 		//show_message("made it to x = prevx.");
 	}
 	
 	if (y > room_height - halfHeight || y < 0 + halfHeight ) { // offsetting half of spritewidth
 		y = prevY;		
-		vY = -vY * damper;
+		//vY = -vY * damper;
 	}	
 }
