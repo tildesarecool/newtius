@@ -16,7 +16,32 @@ I'm at an extremely early stage of for this game right now. In fact a sprite tha
 
 As soon as I accomplish that I'll put a page together on itch.io because *why not?*
 
+The "stable" version of the game I'm going to [leave over on the itch.io page for the game](https://tildesarecool.itch.io/newtius). At least eventually.
+
 ## Updates!
+
+**25th January 2022**
+
+I finished writing a [quite long dev log post over on my blog](https://tildesare.cool/2022/01/25/dev-log-entry-6-sounds-and-collisoins/). WordPress estimates the read time at 12 minutes (so it must be good).
+
+I also figured out how to use "GitHub pages" pages host my GMS2-generated HTML5 edition of my game. I mean besides itch.io and every other way. I couldn't find an article talking about it directly, but I did find [this article from 2019 about HTML5-exported games using unity](https://medium.com/@aboutin/host-unity-games-on-github-pages-for-free-2ed6b4d9c324). 
+
+Basically, I created a separate repo and extracted the created zip into it (the index.html file in the root, in other words). Then turned on pages and pointed it at the "main branch" which happens to have the game's index.html file. Since it's a static HTML thing anyway that doesn't require server side scripting or anything, "pages" puts it up.
+
+For my first repo I decided to preserve the very first published version of newtius for posterity. Or reference. Take your pick:
+
+Playable version onpages:
+
+[https://tildesarecool.github.io/newtius_pre-alpha-1-playable-800x600/](https://tildesarecool.github.io/newtius_pre-alpha-1-playable-800x600/)
+
+[Actual repository](https://github.com/tildesarecool/newtius_pre-alpha-1-playable-800x600)
+
+Eventually I'll create a new repo that will be for the "unstable build" or "nightly" or whatever you want to call it where I'll just throw up the latest version regardless. And perhaps the itch.io copy will be some where in middle. Speaking of which I should probably re-do my whole title screen and make display a version number. Has to be some way of tracking versions. Like a version...tracker. I'm definitely the first one to think of this as a concept. 
+
+
+**23rd January 2022**
+
+I used the examples in the [Arena shooter GML editon](https://www.yoyogames.com/en/tutorials/my-first-arena-shooter-gml) to add hitpoints to the enemy and have the enemy move towards the ship. I also put "bullets" on the own layer for reasons that I'm sure will become apparent.
 
 **21st January 2022**
 
